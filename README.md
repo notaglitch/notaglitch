@@ -6,7 +6,6 @@ A creative thinker, curious and an avid learner, always exploring new things. Wh
 
 # 🔨 Skills
 
-- User Experience (UX) Design
 - User Interface (UI) Design
 - Figma
 - Capcut
