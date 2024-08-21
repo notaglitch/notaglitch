@@ -2,7 +2,7 @@ Hello! It’s Ghafoor, a normal HUMAN living on EARTH. Polyglot,  music instrume
 
 LEARNING PYTHON SINCE 01/08/2024
 
-A creative thinker, curious and an avid learner, always exploring new things. When I'm not pushing online, you can find me somewhere running or doing some other COOL* stuff.
+A creative thinker, curious and an avid learner, always exploring new things. When I'm not online, you can find me somewhere running or doing some other COOL* stuff.
 
 # 🔨 Skills
 
