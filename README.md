@@ -1,6 +1,6 @@
-Hello! It’s Ghafoor, a normal HUMAN living on EARTH. Polyglot,  music instruments, runner, Learner, and tech enthusiast.
+Hi there! I’m Ghafoor, just a regular guy trying to figure things out. I’m passionate about languages, playing music, and running, but my real love lies in computers and technology.
 
-A creative thinker, curious and an avid learner, always exploring new things. When I'm not online, you can find me somewhere running or doing some other COOL* stuff.
+I’m always eager to learn about the latest innovations and how they shape our world. Whether it’s coding, exploring new software, cybersecurity and of course AI, I find joy in understanding how things work. When I’m not online.
 
 # 🔨 Skills
 
