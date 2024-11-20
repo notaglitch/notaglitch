@@ -4,13 +4,14 @@ I’m always eager to learn about the latest innovations and how they shape our 
 
 # 🔨 Skills
 
-- User Interface (UI) Design
+- Python
+- Javascript
+- VBA
+- HTML and CSS
 - Linux
 - Figma
+- User Interface (UI) Design
 - Capcut
-- HTML and CSS
-- VBA
-- Python
 - Rubik’s Cube
 
 Email: ghafoornazari@proton.me
