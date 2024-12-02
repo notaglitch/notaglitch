@@ -14,4 +14,4 @@ I’m always eager to learn about the latest innovations and how they shape our 
 - Capcut
 - Rubik’s Cube
 
-Email: ghafoornazari@proton.me
+Email: GhafoorNazari@pm.me
