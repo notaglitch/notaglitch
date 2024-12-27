@@ -1,17 +1,21 @@
-Hi there! I’m Ghafoor, just a regular guy trying to figure things out. I’m passionate about languages, playing music, and running, but my real love lies in computers and technology.
+👋 Hi, I’m Ghafoor 👨‍💻
 
-I’m always eager to learn about the latest innovations and how they shape our world. Whether it’s coding, exploring new software, cybersecurity and of course AI, I find joy in understanding how things work. When I’m not online.
+I’m someone who loves exploring all things tech. I enjoy coding, learning about cybersecurity, and getting into new ideas like AI. I’m always trying to figure out how things work and how they can make life better.
 
-# 🔨 Skills
+Outside of tech, I’m into playing music, running, and I also like solving a good Rubik’s Cube. But when it comes to my main interest, it’s all about computers and software.
 
-- Python
-- Javascript
-- VBA
-- HTML and CSS
-- Linux
-- Figma
-- User Interface (UI) Design
-- Capcut
-- Rubik’s Cube
+I’m always experimenting with new tools, working on projects, and learning more about the latest in tech.
+🔧 What I Know:
 
-Email: GhafoorNazari@pm.me
+    Programming: Python, JavaScript, TypeScript, VBA
+    Web Development: HTML, CSS, React
+    Operating Systems: Linux (Kali), Windows
+    Design: Figma, UI Design
+    Video Editing: Capcut (for content creation and editing)
+    Other Interests: AI and cybersecurity
+
+📬 Let’s Connect!
+
+You can reach me by email at: [GhafoorNazari@pm.me](mailto:GhafoorNazari@pm.me).
+
+Excited to connect, learn, and build something cool together! 🚀
