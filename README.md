@@ -7,7 +7,7 @@ Outside of tech, I’m into playing music, running, and I also like solving a go
 I’m always experimenting with new tools, working on projects, and learning more about the latest in tech.
 🔧 What I Know:
 
-    Programming: Python, JavaScript, TypeScript, VBA
+    Programming: Python, JavaScript, TypeScript
     Web Development: HTML, CSS, React
     Operating Systems: Linux (Kali), Windows
     Design: Figma, UI Design
@@ -16,6 +16,6 @@ I’m always experimenting with new tools, working on projects, and learning mor
 
 📬 Let’s Connect!
 
-You can reach me by email at: [GhafoorNazari@pm.me](mailto:GhafoorNazari@pm.me).
+You can reach me by email at: [GhafoorNazari@pm.me](mailto:GhafoorNazari@proton.me).
 
 Excited to connect, learn, and build something cool together! 🚀
