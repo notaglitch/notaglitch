@@ -1,21 +1,17 @@
-👋 Hi, I’m Ghafoor 👨‍💻
+<h1 align="center">Hi 👋, I'm Ghafoor Nazari</h1>
+<h3 align="center">Self Taught Web Developer and Cybersecurity Enthusiast</h3>
 
-I’m someone who loves exploring all things tech. I enjoy coding, learning about cybersecurity, and getting into new ideas like AI. I’m always trying to figure out how things work and how they can make life better.
+- 🌱 I’m currently learning **NextJS and DJango**
 
-Outside of tech, I’m into playing music, running, and I also like solving a good Rubik’s Cube. But when it comes to my main interest, it’s all about computers and software.
+- 📫 How to reach me **GhafoorNazari@pm.me**
 
-I’m always experimenting with new tools, working on projects, and learning more about the latest in tech.
-🔧 What I Know:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ghafoor-nazari-320313326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghafoornazari" height="30" width="40" /></a>
+</p>
 
-    Programming: Python, JavaScript, TypeScript
-    Web Development: HTML, CSS, React
-    Operating Systems: Linux (Kali), Windows
-    Design: Figma, UI Design
-    Video Editing: Capcut (for content creation and editing)
-    Other Interests: AI and cybersecurity
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-📬 Let’s Connect!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notaglitch&" alt="notaglitch" /></p>
 
-You can reach me by email at: [GhafoorNazari@pm.me](mailto:GhafoorNazari@proton.me).
-
-Excited to connect, learn, and build something cool together! 🚀
